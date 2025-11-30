@@ -1,6 +1,6 @@
 ## Español ✨
 
-# Like Me – Desafío Full Stack 
+ Like Me – Desafío Full Stack 
 
 Este proyecto corresponde al desarrollo del backend de una red social llamada **“Like Me”**, enfocada en la creación de publicaciones y la interacción de likes entre los usuarios.
 
@@ -30,7 +30,7 @@ El objetivo fue construir un servidor con **Node.js** y **Express**, conectado a
 
 ## English ✨
 
-# Like Me – Full Stack Challenge 
+ Like Me – Full Stack Challenge 
 
 This project is the backend development of a social network called **“Like Me”**, focused on creating user posts and managing likes.
 
